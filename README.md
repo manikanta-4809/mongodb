@@ -5,9 +5,11 @@
 
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/a4663f46-f5f4-46bb-b6e8-fd3779642dae" />
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/21088353-a0d5-44d8-884b-da7291dc1d22" />
+
 ## making all the entries as false
 
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/03eb7e39-0652-4880-a2c8-8a30f04777fd" />
+
 ## inserting one new entry as false
 
 <img width="724" alt="image" src="https://github.com/user-attachments/assets/e76e9a3c-97a1-4682-aad4-af916862fd1a" />
